@@ -59,7 +59,7 @@ export default function App() {
   return (
     <main>
         <h1 className="ttl">Tenzies</h1>
-        <p className="instructions">Premi Roll fino a ottnere tutti numeri uguali<br/> Clicca sui dadi per bloccare il numero </p>
+        <p className="instructions">Premi Roll fino a ottenere tutti numeri uguali<br/> Clicca sui dadi per bloccare il numero </p>
         <div className="grid">
           {diceElements}
         </div>
